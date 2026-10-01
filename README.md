@@ -8,7 +8,8 @@ Professional digital resume / portfolio for Rahul Lodha.
 - `script.js` — smooth navigation
 - `resume.pdf` — latest PDF resume
 - `profile.jpg` — professional profile photo
-- `favicon.ico` — browser tab icon
+- `favicon.ico` — classic browser tab icon
+- `favicon.svg` — modern vector tab icon
 
 ## LinkedIn
 https://www.linkedin.com/in/rahul-lodha-806b78118

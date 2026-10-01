@@ -1,23 +1,18 @@
 # Rahul Lodha — Digital Resume
 
-A responsive static personal resume/portfolio website generated from the supplied resume.
+Professional digital resume / portfolio for Rahul Lodha.
 
-## Files
-- `index.html` — main digital resume
+## Included
+- `index.html` — digital resume / portfolio
 - `styles.css` — responsive styling
 - `script.js` — smooth navigation
-- `resume.pdf` — original resume PDF
+- `resume.pdf` — latest PDF resume
+- `profile.jpg` — professional profile photo
 
-## Free deployment options
-### GitHub Pages
-1. Create a public repository named `YOUR_GITHUB_USERNAME.github.io`.
-2. Upload all files from this folder.
-3. Go to **Settings → Pages**.
-4. Select the branch/folder to publish.
-5. Your site will be available at `https://YOUR_GITHUB_USERNAME.github.io/`.
+## LinkedIn
+https://www.linkedin.com/in/rahul-lodha-806b78118
 
-### Vercel
-You can also drag the project folder/ZIP into Vercel's deployment flow.
+## Deployment
+The site is a static website and can be deployed on GitHub Pages, Vercel, Netlify, or any static hosting provider.
 
-## Before publishing
-Add your GitHub, LinkedIn, and any portfolio/project URLs to `index.html` if you want them displayed.
+For GitHub Pages, upload all files to a repository and enable Pages from the repository settings.
